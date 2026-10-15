@@ -1,0 +1,1 @@
+# FinGraph Kafka Integration Package
